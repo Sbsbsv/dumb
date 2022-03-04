@@ -1,0 +1,29 @@
+
+.main{
+    margin: 50px;
+    background-color: rgb(245, 236, 236);
+   height: 80vh;
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+    
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    display: none;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20%;
+   
+}
+/* #nobb{
+    margin-top: 97;
+} */
+
